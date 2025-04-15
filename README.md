@@ -3,7 +3,7 @@
 ### Espacios y Signos Básicos
 
 | |Glyph|Code|Decimal|Description|
-| |:-:|:-:|:--:|-------|-----------|
+|:-:|:-:|:-:|:--:|-------|-----------|
 | |=|U+0020|(alt + 32)|"Space"|
 | |!|U+0021|(alt + 33)|"Exclamation mark"|
 | |"|U+0022|(alt + 34)|"Quotation mark"|
