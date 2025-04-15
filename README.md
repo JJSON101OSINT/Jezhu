@@ -203,20 +203,96 @@ If you are one of those who are starting to get used to using the numeric keypad
 ## Square Brackets and Technical Symbols
 
 
-[ = U+005B alt + 91 "Left square bracket"
-\ = U+005C alt + 92 "Backslash"
-] = U+005D alt + 93 "Right square bracket"
-^ = U+005E alt + 94 "Circumflex accent"
-_ = U+005F alt + 95 "Low line"
-` = U+0060 alt + 96 "Grave accent"
+<html>
+    <body>
+        <table>
+            <tr>                                    <!-- Tabla 4 -->
+                <td align="center"></td>
+                <td align="center"><b>Glyph</b></td>
+                <td align="center"><b>Code</b></td>
+                <td align="center"><b>Decimal</b></td>
+                <td align="center"><b>Description</b></td>
+            </tr> 
+            <tr>                                     <!-- [ -->
+                <td rowspan="10" class="sub"><p align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></p></td>
+                <td>[</td>
+                <td align="center">U+005B</td>
+                <td align="center">alt + 91</td>
+                <td>"Left square bracket"</td>
+            </tr>
+            <tr>                                     <!-- \ -->
+                <td>\</td>
+                <td align="center">U+005C</td>
+                <td align="center">alt + 92</td>
+                <td>"Backslash"</td>
+            </tr>
+            <tr>                                     <!-- ] -->
+                <td>]</td>
+                <td align="center">U+005D</td>
+                <td align="center">alt + 93</td>
+                <td>"Right square bracket"</td>
+            </tr>
+            <tr>                                     <!-- ^ -->
+                <td>^</td>
+                <td align="center">U+005E</td>
+                <td align="center">alt + 94</td>
+                <td>"Circumflex accent"</td>
+            </tr>
+            <tr>                                     <!-- _ -->
+                <td>_</td>
+                <td align="center">U+005F</td>
+                <td align="center">alt + 95</td>
+                <td>"Low line"</td>
+            </tr>
+            <tr>                                     <!-- ` -->
+                <td>`</td>
+                <td align="center">U+0060</td>
+                <td align="center">alt + 96</td>
+                <td>"Grave accent"</td>
+            </tr>
+        </table>
+    </body>
+</html>
 
 
 ## Brackets and Special Characters
 
 
-{ = U+007B alt + 123 "Left curly bracket"
-| = U+007C alt + 124 "Vertical bar"
-} = U+007D alt + 125 "Right curly bracket"
-~ = U+007E alt + 126 "Tilde"
-
-For further information, do some research at https://en.wikipedia.org/wiki/List_of_Unicode_characters
+<html>
+    <body>
+        <table>
+            <tr>                                    <!-- Tabla 5 -->
+                <td align="center"></td>
+                <td align="center"><b>Glyph</b></td>
+                <td align="center"><b>Code</b></td>
+                <td align="center"><b>Decimal</b></td>
+                <td align="center"><b>Description</b></td>
+            </tr> 
+            <tr>                                     <!-- { -->
+                <td rowspan="10" class="sub"><p align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></p></td>
+                <td>{</td>
+                <td align="center">U+007B</td>
+                <td align="center">alt + 123</td>
+                <td>"Left curly bracket"</td>
+            </tr>
+            <tr>                                     <!-- | -->
+                <td>|</td>
+                <td align="center">U+007C</td>
+                <td align="center">alt + 124</td>
+                <td>"Vertical bar"</td>
+            </tr>
+            <tr>                                     <!-- } -->
+                <td>}</td>
+                <td align="center">U+007D</td>
+                <td align="center">alt + 125</td>
+                <td>"Right curly bracket"</td>
+            </tr>
+            <tr>                                     <!-- ~ -->
+                <td>~</td>
+                <td align="center">U+007E</td>
+                <td align="center">alt + 126</td>
+                <td>"Tilde"</td>
+            </tr>
+        </table>
+    </body>
+</html>
