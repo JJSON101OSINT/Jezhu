@@ -16,22 +16,14 @@
 ||)|U+0029|alt + 41|"Right parenthesis"|
 
 <html>
-<head>
-    <title>Tabla HTML</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 100%;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            text-align: left;
-            padding: 10px 25px 8px 25px;
-            text-align: center;
-            font-size: 12px;
-        }
-    </style>
-</head>
+    <body>
+        <table >
+            <tr>
+            <td colspan="6" class="sub">  <h2>Espacios y Signos Básicos</h2></td>
+            </tr>
+        </table>
+    </body>
+</html>
 
 ## Operadores Matemáticos y Simbología Común
 
