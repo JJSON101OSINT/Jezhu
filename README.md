@@ -1,12 +1,12 @@
 # 📝 List of Unicode UTF-8 characters for General Programming
 
-
+This repository is intended to share "shortcuts" to characters used in general programming, such as Cybersecurity, Data Science, Software Development, Web Development, etc. It works for both Linux and Windows. If you are one of those who are starting to get used to using the numeric keypad in Windows, or if you want to start speeding up your coding, this is for you.
 
 ### Espacios y Signos Básicos
 
 | |Glyph|Code|Decimal|Description|
 |:-:|:-:|:--:|-------|-----------|
-||=|U+0020|alt + 32|"Space"|
+|||U+0020|alt + 32|"Space"|
 ||!|U+0021|alt + 33|"Exclamation mark"|
 ||"|U+0022|alt + 34|"Quotation mark"|
 |ASCII|#|U+0023|alt + 35|"Hash"; "Number sign"|
@@ -21,24 +21,72 @@
     <body>
         <table >
             <tr>
-                <td colspan="5" class="sub"> <h3 align="center">Espacios y Signos Básicos</h3> </td>
+                <td colspan="5" class="sub"> <h2 align="center">Espacios y Signos Básicos</h2> </td>
             </tr>
-            <tr>
+            <tr>                                    <!-- Tabla 1 -->
                 <td align="center"></td>
                 <td align="center">Glyph</td>
                 <td align="center">Code</td>
                 <td align="center">Decimal</td>
                 <td align="center">Description</td>
-            </tr>
-            <tr>
+            </tr> 
+            <tr>                                     <!--   -->
                 <td rowspan="10" class="sub"><p align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></p></td>
                 <td> </td>
                 <td align="center">U+0020</td>
                 <td align="center">alt + 32</td>
                 <td>"Space"</td>
             </tr>
-            <tr>
+            <tr>                                     <!-- ! -->
                 <td>!</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- " -->
+                <td>"</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- # -->
+                <td>#</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- $ -->
+                <td>$</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- % -->
+                <td>%</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- & -->
+                <td>&</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- ' -->
+                <td>'</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- ( -->
+                <td>(</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
+            </tr>
+            <tr>                                     <!-- ) -->
+                <td>)</td>
                 <td align="center">U+0021</td>
                 <td align="center">alt + 33</td>
                 <td>"Exclamation mark"</td>
