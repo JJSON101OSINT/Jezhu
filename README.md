@@ -24,11 +24,11 @@
                 <td colspan="5" class="sub"> <h3 align="center">Espacios y Signos Básicos</h3> </td>
             </tr>
             <tr>
-                <td></td>
-                <td>Glyph</td>
-                <td>Code</td>
-                <td>Decimal</td>
-                <td>Description</td>
+                <td align="center"></td>
+                <td align="center">Glyph</td>
+                <td align="center">Code</td>
+                <td align="center">Decimal</td>
+                <td align="center">Description</td>
             </tr>
         </table>
     </body>
