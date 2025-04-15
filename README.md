@@ -23,6 +23,13 @@
             <tr>
                 <td colspan="5" class="sub"> <h3>Espacios y Signos Básicos</h3> </td>
             </tr>
+            <tr>
+                <td></td>
+                <td>Glyph</td>
+                <td>Code<</td>
+                <td>Decimal</td>
+                <td>Description</td>
+            </tr>
         </table>
     </body>
 </html>
