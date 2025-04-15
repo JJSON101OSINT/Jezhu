@@ -31,7 +31,7 @@
                 <td align="center">Description</td>
             </tr>
             <tr>
-                <td rowspan="10" class="sub"><h4 align="center"><b>ASCII Punctuation & Symbols</b></h4></td>
+                <td rowspan="10" class="sub"><h4 align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></h4></td>
             </tr>
         </table>
     </body>
