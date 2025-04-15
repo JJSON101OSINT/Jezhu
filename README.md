@@ -21,7 +21,7 @@
     <body>
         <table >
             <tr>
-                <td colspan="5" class="sub"> <p align="center"> <h3>Espacios y Signos Básicos</h3> </p>  </td>
+                <td colspan="5" class="sub"> <h3 align="center">Espacios y Signos Básicos</h3> </td>
             </tr>
             <tr>
                 <td></td>
