@@ -127,13 +127,13 @@ If you are one of those who are starting to get used to using the numeric keypad
                 <td>.</td>
                 <td align="center">U+002E</td>
                 <td align="center">alt + 46</td>
-                <td>"Dollar sign"</td>
+                <td>"Full stop"</td>
             </tr>
             <tr>                                     <!-- / -->
                 <td>/</td>
                 <td align="center">U+002F</td>
                 <td align="center">alt + 47</td>
-                <td>"Percent sign"</td>
+                <td>"Slash (Solidus)"</td>
             </tr>
         </table>
     </body>
