@@ -16,6 +16,22 @@
 ||)|U+0029|alt + 41|"Right parenthesis"|
 
 <html>
+    <head>
+        <title>Tabla HTML</title>
+        <style>
+            table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+            th, td {
+                border: 1px solid #ddd;
+                text-align: left;
+                padding: 10px 25px 8px 25px;
+                text-align: center;
+                font-size: 12px;
+            }
+        </style>
+    </head>
     <body>
         <table >
             <tr>
