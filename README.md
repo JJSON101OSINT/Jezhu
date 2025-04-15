@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java progamming
 - 🌱 I’m currently learning Software Engineer
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me ...
+- 📫 How to reach me ... you just can't reach me...
 
 <!---
 Kill-cpp/Kill-cpp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
