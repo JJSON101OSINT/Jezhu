@@ -5,6 +5,7 @@ Welcome.
 This repository is intended to share "shortcuts" to characters used in general programming, such as Cybersecurity, Data Science, Software Development, Web Development, etc. It works for both Linux and Windows.
 If you are one of those who are starting to get used to using the numeric keypad in Windows, or if you want to start speeding up your coding, this is for you.
 
+
 <html>
     <body>
         <table>
@@ -125,3 +126,4 @@ _ = U+005F alt + 95 "Low line"
 } = U+007D alt + 125 "Right curly bracket"
 ~ = U+007E alt + 126 "Tilde"
 
+For further information, do some research at https://en.wikipedia.org/wiki/List_of_Unicode_characters
