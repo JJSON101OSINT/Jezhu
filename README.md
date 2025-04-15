@@ -31,7 +31,11 @@
                 <td align="center">Description</td>
             </tr>
             <tr>
-                <td rowspan="10" class="sub"><h4 align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></h4></td>
+                <td rowspan="10" class="sub"><p align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></p></td>
+                <td></td>
+                <td align="center">U+0020</td>
+                <td align="center">alt + 32</td>
+                <td>"Space"</td>
             </tr>
         </table>
     </body>
