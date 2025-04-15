@@ -1,5 +1,7 @@
 # 📝 List of Unicode UTF-8 characters for General Programming
 
+
+
 ### Espacios y Signos Básicos
 
 | |Glyph|Code|Decimal|Description|
@@ -19,7 +21,7 @@
     <body>
         <table >
             <tr>
-            <td colspan="6" class="sub">  <h2>Espacios y Signos Básicos</h2></td>
+                <td colspan="5" class="sub"> <h3>Espacios y Signos Básicos</h3> </td>
             </tr>
         </table>
     </body>
@@ -66,3 +68,4 @@ _ = U+005F alt + 95 "Low line"
 | = U+007C alt + 124 "Vertical bar"
 } = U+007D alt + 125 "Right curly bracket"
 ~ = U+007E alt + 126 "Tilde"
+
