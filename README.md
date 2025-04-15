@@ -26,7 +26,7 @@
             <tr>
                 <td></td>
                 <td>Glyph</td>
-                <td>Code<</td>
+                <td>Code</td>
                 <td>Decimal</td>
                 <td>Description</td>
             </tr>
