@@ -1,4 +1,4 @@
-# 📝 List of Unicode characters for General Programming
+# 📝 List of Unicode UTF-8 characters for General Programming
 
 ### Espacios y Signos Básicos
 
@@ -7,9 +7,9 @@
 ||=|U+0020|alt + 32|"Space"|
 ||!|U+0021|alt + 33|"Exclamation mark"|
 ||"|U+0022|alt + 34|"Quotation mark"|
-||#|U+0023|alt + 35|"Hash"; "Number sign"|
-||$|U+0024|alt + 36|"Dollar sign"|
-||%|U+0025|alt + 37|"Percent sign"|
+|ASCII|#|U+0023|alt + 35|"Hash"; "Number sign"|
+|Punctuation|$|U+0024|alt + 36|"Dollar sign"|
+|& Symbols|%|U+0025|alt + 37|"Percent sign"|
 ||&|U+0026|alt + 38|"Ampersand"|
 ||'|U+0027|alt + 39|"Apostrophe"|
 ||(|U+0028|alt + 40|"Left parenthesis"|
