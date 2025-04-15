@@ -142,13 +142,56 @@ If you are one of those who are starting to get used to using the numeric keypad
 ## Comparison Signs and Extended Punctuation
 
 
-: = U+003A alt + 58 "Colon"
-; = U+003B alt + 59 "Semicolon"
-< = U+003C alt + 60 "Less-than sign"
-= = U+003D alt + 61 "Equal sign"
-\> = U+003E alt + 62 "Greater-than sign"
-? = U+003F alt + 63 "Question mark"
-@ = U+0040 alt + 64 "At sign"
+<html>
+    <body>
+        <table>
+            <tr>                                    <!-- Tabla 3 -->
+                <td align="center"></td>
+                <td align="center"><b>Glyph</b></td>
+                <td align="center"><b>Code</b></td>
+                <td align="center"><b>Decimal</b></td>
+                <td align="center"><b>Description</b></td>
+            </tr> 
+            <tr>                                     <!-- * -->
+                <td rowspan="10" class="sub"><p align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></p></td>
+                <td>*</td>
+                <td align="center">U+002A</td>
+                <td align="center">alt + 42</td>
+                <td>"Asterisk"</td>
+            </tr>
+            <tr>                                     <!-- + -->
+                <td>+</td>
+                <td align="center">U+002B</td>
+                <td align="center">alt + 43</td>
+                <td>"Plus sign"</td>
+            </tr>
+            <tr>                                     <!-- , -->
+                <td>,</td>
+                <td align="center">U+002C</td>
+                <td align="center">alt + 44</td>
+                <td>"Comma"</td>
+            </tr>
+            <tr>                                     <!-- - -->
+                <td>-</td>
+                <td align="center">U+002D</td>
+                <td align="center">alt + 45</td>
+                <td>"Hyphen-minus"</td>
+            </tr>
+            <tr>                                     <!-- . -->
+                <td>.</td>
+                <td align="center">U+002E</td>
+                <td align="center">alt + 46</td>
+                <td>"Full stop"</td>
+            </tr>
+            <tr>                                     <!-- / -->
+                <td>/</td>
+                <td align="center">U+002F</td>
+                <td align="center">alt + 47</td>
+                <td>"Slash (Solidus)"</td>
+            </tr>
+        </table>
+    </body>
+</html>
 
 
 ## Square Brackets and Technical Symbols
