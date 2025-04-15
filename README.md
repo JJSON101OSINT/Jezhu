@@ -1,8 +1,13 @@
-# ASCII
-# Punctuation
-# & Symbols
+# ASCII Punctuation & Symbols
 
 ## Espacios y Signos Básicos
+
+| Nombre |Código|
+|:-------:|:----------:|
+|Espinoza Rodriguez, Nicolas Antonio|U202110278|
+|Galavis Du Bois, Alan Enrique|U202110223|
+|Seminario Garbin, Carlo Luca|U20211A475|
+|Soto Kong Requena, Andres Eduardo|U202116113|
 
 = U+0020 (alt + 32) "Space"
 
@@ -75,7 +80,7 @@ _ = U+005F (alt + 95) "Low line"
 ` = U+0060 (alt + 96) "Grave accent"
 
 
-## -----Llaves y Caracteres Especiales-----
+## Llaves y Caracteres Especiales
 
 
 { = U+007B (alt + 123) "Left curly bracket"
