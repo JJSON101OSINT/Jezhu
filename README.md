@@ -32,10 +32,16 @@
             </tr>
             <tr>
                 <td rowspan="10" class="sub"><p align="center"><b>ASCII<br>Punctuation<br>& Symbols</b></p></td>
-                <td></td>
+                <td> </td>
                 <td align="center">U+0020</td>
                 <td align="center">alt + 32</td>
                 <td>"Space"</td>
+            </tr>
+            <tr>
+                <td>!</td>
+                <td align="center">U+0021</td>
+                <td align="center">alt + 33</td>
+                <td>"Exclamation mark"</td>
             </tr>
         </table>
     </body>
