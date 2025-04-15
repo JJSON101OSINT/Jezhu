@@ -23,9 +23,6 @@ If you are one of those who are starting to get used to using the numeric keypad
 <html>
     <body>
         <table>
-            <tr>
-                <td colspan="5" class="sub"> <h2 align="center">Basic Signs and Spaces</h2> </td>
-            </tr>
             <tr>                                    <!-- Tabla 1 -->
                 <td align="center"></td>
                 <td align="center"><b>Glyph</b></td>
