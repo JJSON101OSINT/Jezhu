@@ -1,33 +1,19 @@
-# ASCII Punctuation & Symbols
+# 📝 List of Unicode characters for General Programming
 
-## Espacios y Signos Básicos
+### Espacios y Signos Básicos
 
-| Nombre |Código|
-|:-------:|:----------:|
-|Espinoza Rodriguez, Nicolas Antonio|U202110278|
-|Galavis Du Bois, Alan Enrique|U202110223|
-|Seminario Garbin, Carlo Luca|U20211A475|
-|Soto Kong Requena, Andres Eduardo|U202116113|
-
-= U+0020 (alt + 32) "Space"
-
-! = U+0021 (alt + 33) "Exclamation mark"
-
-" = U+0022 (alt + 34) "Quotation mark"
-
-\# = U+0023 (alt + 35) "Hash"; "Number sign"
-
-$ = U+0024 (alt + 36) "Dollar sign"
-
-% = U+0025 (alt + 37) "Percent sign"
-
-& = U+0026 (alt + 38) "Ampersand"
-
-' = U+0027 (alt + 39) "Apostrophe"
-
-( = U+0028 (alt + 40) "Left parenthesis"
-
-) = U+0029 (alt + 41) "Right parenthesis"
+| |Glyph|Code|Decimal|Description|
+|:-:|:-:|:--:|-------|-----------|
+|=|U+0020|(alt + 32)|"Space"|
+|!|U+0021|(alt + 33)|"Exclamation mark"|
+|"|U+0022|(alt + 34)|"Quotation mark"|
+|#|U+0023|(alt + 35)|"Hash"; "Number sign"|
+|$|U+0024|(alt + 36)|"Dollar sign"|
+|%|U+0025|(alt + 37)|"Percent sign"|
+|&|U+0026|(alt + 38)|"Ampersand"|
+|'|U+0027|(alt + 39)|"Apostrophe"|
+|(|U+0028|(alt + 40)|"Left parenthesis"|
+|)|U+0029|(alt + 41)|"Right parenthesis"|
 
 
 ## Operadores Matemáticos y Simbología Común
