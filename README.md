@@ -6,12 +6,12 @@ This repository is intended to share "shortcuts" to characters used in general p
 If you are one of those who are starting to get used to using the numeric keypad in Windows, or if you want to start speeding up your coding, this is for you.
 
 
+## Basic Signs and Spaces
+
+
 <html>
     <body>
         <table>
-            <tr>
-                <td colspan="5" class="sub"> <h2 align="center">Basic Signs and Spaces</h2> </td>
-            </tr>
             <tr>                                    <!-- Tabla 1 -->
                 <td align="center"></td>
                 <td align="center"><b>Glyph</b></td>
