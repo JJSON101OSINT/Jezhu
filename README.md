@@ -5,24 +5,12 @@ Welcome.
 This repository is intended to share "shortcuts" to characters used in general programming, such as Cybersecurity, Data Science, Software Development, Web Development, etc. It works for both Linux and Windows.
 If you are one of those who are starting to get used to using the numeric keypad in Windows, or if you want to start speeding up your coding, this is for you.
 
-### Basic Signs and Spaces
-
-| |Glyph|Code|Decimal|Description|
-|:-:|:-:|:--:|-------|-----------|
-|||U+0020|alt + 32|"Space"|
-||!|U+0021|alt + 33|"Exclamation mark"|
-||"|U+0022|alt + 34|"Quotation mark"|
-|ASCII|#|U+0023|alt + 35|"Hash"; "Number sign"|
-|Punctuation|$|U+0024|alt + 36|"Dollar sign"|
-|& Symbols|%|U+0025|alt + 37|"Percent sign"|
-||&|U+0026|alt + 38|"Ampersand"|
-||'|U+0027|alt + 39|"Apostrophe"|
-||(|U+0028|alt + 40|"Left parenthesis"|
-||)|U+0029|alt + 41|"Right parenthesis"|
-
 <html>
     <body>
         <table>
+            <tr>
+                <td colspan="5" class="sub"> <h2 align="center">Basic Signs and Spaces</h2> </td>
+            </tr>
             <tr>                                    <!-- Tabla 1 -->
                 <td align="center"></td>
                 <td align="center"><b>Glyph</b></td>
