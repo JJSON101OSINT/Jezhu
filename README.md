@@ -296,3 +296,5 @@ If you are one of those who are starting to get used to using the numeric keypad
         </table>
     </body>
 </html>
+
+For further information, do some research at https://en.wikipedia.org/wiki/List_of_Unicode_characters
