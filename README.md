@@ -10,7 +10,7 @@ Punctuation
 
 " = U+0022 (alt + 34) "Quotation mark"
 
-# = U+0023 (alt + 35) "Hash"; "Number sign"
+\# = U+0023 (alt + 35) "Hash"; "Number sign"
 
 $ = U+0024 (alt + 36) "Dollar sign"
 
@@ -75,7 +75,7 @@ _ = U+005F (alt + 95) "Low line"
 ` = U+0060 (alt + 96) "Grave accent"
 
 
------Llaves y Caracteres Especiales-----
+# -----Llaves y Caracteres Especiales-----
 
 
 { = U+007B (alt + 123) "Left curly bracket"
