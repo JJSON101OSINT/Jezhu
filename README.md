@@ -1,10 +1,10 @@
-ASCII
-Punctuation
-& Symbols
+# ASCII
+# Punctuation
+# & Symbols
 
------Espacios y Signos Básicos-----
+## Espacios y Signos Básicos
 
-  = U+0020 (alt + 32) "Space"
+= U+0020 (alt + 32) "Space"
 
 ! = U+0021 (alt + 33) "Exclamation mark"
 
@@ -25,23 +25,23 @@ $ = U+0024 (alt + 36) "Dollar sign"
 ) = U+0029 (alt + 41) "Right parenthesis"
 
 
------Operadores Matemáticos y Simbología Común-----
+## Operadores Matemáticos y Simbología Común
 
 
-* = U+002A (alt + 42) "Asterisk"
+\* = U+002A (alt + 42) "Asterisk"
 
-+ = U+002B (alt + 43) "Plus sign"
+\+ = U+002B (alt + 43) "Plus sign"
 
 , = U+002C (alt + 44) "Comma"
 
-- = U+002D (alt + 45) "Hyphen-minus"
+\- = U+002D (alt + 45) "Hyphen-minus"
 
 . = U+002E (alt + 46) "Full stop"
 
 / = U+002F (alt + 47) "Slash (Solidus)"
 
 
------Signos de Comparación y Puntuación Extendida-----
+## Signos de Comparación y Puntuación Extendida
 
 
 : = U+003A (alt + 58) "Colon"
@@ -52,14 +52,14 @@ $ = U+0024 (alt + 36) "Dollar sign"
 
 = = U+003D (alt + 61) "Equal sign"
 
-> = U+003E (alt + 62) "Greater-than sign"
+\> = U+003E (alt + 62) "Greater-than sign"
 
 ? = U+003F (alt + 63) "Question mark"
 
 @ = U+0040 (alt + 64) "At sign"
 
 
------Corchetes y Símbolos Técnicos-----
+## Corchetes y Símbolos Técnicos
 
 
 [ = U+005B (alt + 91) "Left square bracket"
@@ -75,7 +75,7 @@ _ = U+005F (alt + 95) "Low line"
 ` = U+0060 (alt + 96) "Grave accent"
 
 
-# -----Llaves y Caracteres Especiales-----
+## -----Llaves y Caracteres Especiales-----
 
 
 { = U+007B (alt + 123) "Left curly bracket"
