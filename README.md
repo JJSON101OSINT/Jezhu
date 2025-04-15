@@ -22,9 +22,9 @@ If you are one of those who are starting to get used to using the numeric keypad
 
 <html>
     <body>
-        <table border="1" cellpadding="10">
+        <table>
             <tr>
-                <td colspan="5" class="sub"> <p align="center">Basic Signs and Spaces</p> </td>
+                <td colspan="5" class="sub"> <h2 align="center">Basic Signs and Spaces</h2> </td>
             </tr>
             <tr>                                    <!-- Tabla 1 -->
                 <td align="center"></td>
