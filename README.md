@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kill-cpp
-- 👀 I’m interested in C++ progamming
+- 👋 Hi, I’m @Jezhu
+- 👀 I’m interested in Java progamming
 - 🌱 I’m currently learning Software Engineer
 - 💞️ I’m looking to collaborate on Discord
 - 📫 How to reach me ...
